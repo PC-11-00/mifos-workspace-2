@@ -9,6 +9,14 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
+    "paths": {
+      "finearct-client": [
+        "dist/finearct-client"
+      ],
+      "mifosx-lib": [
+        "dist/mifosx-lib"
+      ]
+    },
     "noFallthroughCasesInSwitch": true,
     "sourceMap": true,
     "declaration": false,
